@@ -9,7 +9,7 @@
 
 ### ✨Contributions
 
-[![Xiaodao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaodao-chen&show_icons=true&hide_border=true)](https://github.com/Xiaodao-chen/github-readme-stats)
+[![Xiaodao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaodao-chen&show_icons=true&hide_border=true&hide_rank=true)](https://github.com/Xiaodao-chen/github-readme-stats)
 
 
 
