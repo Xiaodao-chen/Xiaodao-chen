@@ -9,7 +9,12 @@
 
 ### ✨Contributions
 
-[![Xiaodao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaodao-chen&show_icons=true&hide_border=true&hide_rank=true)](https://github.com/Xiaodao-chen/github-readme-stats)
+<a href="https://github.com/siyuanwu99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xiaodao-chen&show_icons=true&hide_border=true&hide_rank=true&theme=swift&hide=prs" />
+</a>
+<a href="https://github.com/siyuanwu99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaodao-chen&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
+</a>
 
 
 
@@ -30,7 +35,6 @@ I'm looking for the ultimate performance of UAVs.！😉
 
 ![c&c++](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/c&c++.svg) ![python](https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Github-Jason-xy/python.svg) ![CUDA](https://img.shields.io/badge/-CUDA-yellowgreen?logo=nvidia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaodao-chen&layout=compact)](https://github.com/Xiaodao-chen/github-readme-stats)
 
 ### ☕Get In Touch
 
