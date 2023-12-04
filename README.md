@@ -40,7 +40,7 @@ I'm looking for the ultimate performance of UAVs.！😉
 ### ☕Get In Touch
 
 [![Zhihu](https://img.shields.io/badge/dynamic/json?color=142026&labelColor=0066ff&logo=zhihu&logoColor=white&label=zhihu%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dchen-xiao-dao-54-40)](https://www.zhihu.com/people/chen-xiao-dao-54-40)
-[![gmail](https://img.shields.io/badge/Gmail-ffffff?logo=gmail&labelColor=228B22&logoColor=white)](mailto:xiaodao-chem@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-ffffff?logo=gmail&labelColor=228B22&logoColor=white)](mailto:xiaodao.chem@gmail.com)
 
 <!-- ### ✈Currently I am developing： -->
 
