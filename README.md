@@ -20,7 +20,7 @@
 
 ### HELLO WORLD！ 🎉
 
-I am a computer software scholar majoring in  embedded systems and cyber security, interested in **robotics(UAV)** and  **network**, 
+I am an undergraduate student majoring in computer software with a focus on embedded systems and cyber security, interested in **robotics(UAV)** and  **network**, 
 
 I'm looking for the ultimate performance of UAVs.！😉 
 
