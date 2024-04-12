@@ -24,6 +24,8 @@ I am an undergraduate student majoring in computer software with a focus on embe
 
 I'm looking for the ultimate performance of UAVs.！😉 
 
+Currently working as a RA at [FastLab](http://zju-fast.com/), under the supervision of  Prof.[FeiGao](http://zju-fast.com/fei-gao/).🏃‍♂️
+
 🏫 Studying at the University of Electronic Science and Technology of China(UESTC).
 
 💬 Feel free to ask me about UAV, Jetson Orin, Motion planning, Computer network, RTOS.
