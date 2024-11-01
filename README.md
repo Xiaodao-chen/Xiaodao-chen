@@ -12,23 +12,21 @@
 <a href="https://github.com/Xiaodao-chen">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xiaodao-chen&show_icons=true&hide_border=true&hide_rank=true&theme=swift&hide=prs" />
 </a>
-<a href="https://github.com/Xiaodao-chen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaodao-chen&hide=html,cmake,css,makefile&layout=compact&theme=swift" />
-</a>
+
 
 
 
 ### HELLO WORLD！ 🎉
+- B.Eng., Software Engineering (Embedded System), UESTC
+- MPhil (Control Science and Engineering), SYSU 
 
-I am an undergraduate student majoring in computer software with a focus on embedded systems and cyber security, interested in **robotics(UAV)** and  **network**, 
+I am a first-year MPhil student specializing in control science and engineering, interested in **semantic navigation** and  **UAV robotics**, 
 
-I'm looking for the ultimate performance of UAVs.！😉 
+My goal is to develop true intelligence in robotics, enabling more autonomous and adaptive systems😉. 
 
-Currently working as a RA at [FastLab](http://zju-fast.com/), under the supervision of  Prof.[FeiGao](http://zju-fast.com/fei-gao/).🏃‍♂️
+Previously, I worked as a RA at [FastLab](http://zju-fast.com/), under the supervision of  Prof.[FeiGao](http://zju-fast.com/fei-gao/).🏃‍♂️
 
-🏫 Studying at the University of Electronic Science and Technology of China(UESTC).
-
-💬 Feel free to ask me about UAV, Jetson Orin, Motion planning, Computer network, RTOS.
+💬 I’m always open to discussing Motion Planning, Semantic Mapping, and RTOS.
 
 ### 🔨Tools Preference
 
@@ -44,7 +42,5 @@ Currently working as a RA at [FastLab](http://zju-fast.com/), under the supervis
 
 [![Zhihu](https://img.shields.io/badge/dynamic/json?color=142026&labelColor=0066ff&logo=zhihu&logoColor=white&label=zhihu%20fans&query=count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fchen-xiao-dao-54-40)](https://www.zhihu.com/people/chen-xiao-dao-54-40)
 [![gmail](https://img.shields.io/badge/Gmail-ffffff?logo=gmail&labelColor=228B22&logoColor=white)](mailto:xiaodao.chem@gmail.com)
-
-<!-- ### ✈Currently I am developing： -->
 
 
