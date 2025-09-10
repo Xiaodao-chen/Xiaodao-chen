@@ -20,7 +20,7 @@
 - B.Eng., Software Engineering (Embedded System), UESTC
 - MPhil (Control Science and Engineering), SYSU 
 
-I am a second-year MPhil student specializing in control science and engineering, interested in **semantic navigation** and  **UAV robotics**, 
+I am a second-year MPhil student specializing in control science and engineering, interested in **semantic navigation**, **Humanoid robotics**, and **UAV robotics**, 
 
 My goal is to develop true intelligence in robotics, enabling more autonomous and adaptive systems😉. 
 
