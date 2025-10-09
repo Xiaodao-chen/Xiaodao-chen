@@ -24,7 +24,7 @@ I am a second-year MPhil student specializing in control science and engineering
 
 My goal is to develop true intelligence in robotics, enabling more autonomous and adaptive systems😉. 
 
-Previously, I worked as a RA at [FastLab](http://zju-fast.com/), under the supervision of  Prof.[FeiGao](http://zju-fast.com/fei-gao/).🏃‍♂️
+Previously, I worked as a RA at FastLab, under the supervision of  Prof.[FeiGao](https://feigao-robotics.com/).🏃‍♂️
 
 💬 I’m always open to discussing Motion Planning, Semantic Mapping, and RTOS.
 
