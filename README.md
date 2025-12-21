@@ -26,6 +26,8 @@ My goal is to develop true intelligence in robotics, enabling more autonomous an
 
 Previously, I worked as a RA at FastLab, under the supervision of  Prof.[FeiGao](https://feigao-robotics.com/).🏃‍♂️
 
+I am currently a visiting student collaborating with Prof.[Zhongyu.Li](https://zyliatzju.github.io/).
+
 💬 I’m always open to discussing Motion Planning, Semantic Mapping, and RTOS.
 
 ### 🔨Tools Preference
